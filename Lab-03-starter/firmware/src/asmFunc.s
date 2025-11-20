@@ -17,12 +17,14 @@ nameStr: .asciz "Hello. My name is Inigo Montoya."
 nameStrPtr: .word nameStr   /* Assign the mem loc of nameStr to nameSrPtr */
  
 /* Tell the assembler that what follows is in instruction memory    */
-.text
-/* TODO: For Spring '26, remove the .text directive and use the .section
+
+/* For Spring '26, we removed the .text directive and used the .section
  * directive below to make sure that asmFunc is located consistently
  * regardless of MPLAB data packs and other config differences */
 
-/* .section lab3code,code,address(0x00002000) */
+/* .text */
+
+.section lab3code,code,address(0x00002000)
 
 .align
 

@@ -41,3 +41,13 @@
 /Lab-03-starter/firmware/Lab-03-starter.X/dist/
 *.s~
 *.un~
+/Lab-03-starter/firmware/Lab-03-starter.X/nbproject/private
+Lab-03-starter/firmware/Lab-03-starter.X/nbproject/Makefile-genesis.properties
+Lab-03-starter/firmware/Lab-03-starter.X/nbproject/.DS_Store
+Lab-03-starter/firmware/.DS_Store
+Lab-03-starter/firmware/.DS_Store
+Lab-03-starter/firmware/src/.DS_Store
+Lab-03-starter/firmware/.DS_Store
+Lab-03-starter/firmware/src/config/.DS_Store
+Lab-03-starter/firmware/Lab-03-starter.X/.DS_Store
+Lab-03-starter/firmware/Lab-03-starter.X/nbproject/Makefile-genesis.properties
